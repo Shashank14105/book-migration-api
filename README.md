@@ -394,4 +394,3 @@ Flyway will automatically:
 
 **Shashank Kumar**
 
-InternSpark AICTE Listed Java Internship Project

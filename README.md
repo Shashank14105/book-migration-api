@@ -1,6 +1,6 @@
 # 📚 Book Migration API
 
-A Spring Boot REST API developed as part of the **InternSpark AICTE-listed Java Internship Program**. This project demonstrates **Database Integration using MySQL**, **Spring Data JPA**, and **Flyway Database Migrations** with a complete Book Management System.
+A Spring Boot REST API. This project demonstrates **Database Integration using MySQL**, **Spring Data JPA**, and **Flyway Database Migrations** with a complete Book Management System.
 
 ---
 

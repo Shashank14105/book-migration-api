@@ -337,14 +337,8 @@ http://localhost:8080/books/4
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Shashank14105/book-migration-api.git
 ```
-
----
-
-### 2. Open the Project
-
-Open the project in **IntelliJ IDEA**.
 
 ---
 
